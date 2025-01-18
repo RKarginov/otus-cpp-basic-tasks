@@ -1,1 +1,1 @@
-# otus-cpp-basic-tasks
+# C++ is a base in programming
